@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://mdkaifali-portfolio.vercel.app/" target="_blank">Lovely Kumari</a>
+  <a href="https://lovely-portfolio.vercel.app/" target="_blank">Lovely Kumari</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -10,7 +10,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://mdkaifali-portfolio.vercel.app/" target="_blank">Lovely Kumari</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://lovely-portfolio.vercel.app/" target="_blank">Lovely Kumari</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
