@@ -33,7 +33,7 @@ function Home2() {
             <Tab.Content>
               <Tab.Pane className='tabContent' eventKey="first">
                 <h2>Associate DevOps Engineer <span className='purple'>@CloudDrove</span></h2>
-                <h3>Dec 2023 - Present</h3>
+                <h3>Dec 2023 - Jan 2024</h3>
                 <div className='Workdesc'>
                   <div className='bulletPoints'>
                     <FaRegHandPointRight/> Created Dockerfiles for application deployment, developed pipelines for building and pushing Docker images on ACR, and deployed applications on Azure App Service using Azure Cloud and Azure DevOps.
